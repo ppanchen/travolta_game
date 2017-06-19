@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/rush00.dir/main.cpp.o CMakeFiles/rush00.dir/Player.cpp.o CMakeFiles/rush00.dir/Enemy.cpp.o CMakeFiles/rush00.dir/Map.cpp.o CMakeFiles/rush00.dir/RealPlayer.cpp.o  -o rush00 -lcurses /usr/lib/x86_64-linux-gnu/libform.so 
